@@ -1,8 +1,7 @@
 
 """
 Author : Ori Kelty
-Exercise 6.19 – Open Port Scanner using Scapy
-Method: TCP SYN Scan (Half-Open Scan / Three-Way Handshake)
+description:  Open Port Scanner using Scapy | Method: TCP SYN Scan (Three-Way Handshake)
 
 How it works:
  Send a SYN packet to each port in the range
